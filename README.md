@@ -19,6 +19,7 @@ Automatic installation of well-used tools after clean install of Windows
 * Visual C++ Redistributable for Visual Studio 2015-2019
 * Arduino IDE
 * Chocolatey GUI
+* Zoom
 *  Visual studio code
    *  NoContextMenuFiles
    *  NoContextMenuFolders
