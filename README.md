@@ -5,7 +5,7 @@ Automatic installation of well-used tools after clean install of Windows
 
 [chocolatey](https://chocolatey.org/)
 
-# installed tools
+# tools installed
 
 * Google Chrome
 * Adobe acrobat reader
@@ -33,10 +33,12 @@ Automatic installation of well-used tools after clean install of Windows
 
 
 
+# memo
+Tools that cannot be installed from choco
 
+* [Dynamic theme](https://www.microsoft.com/ja-jp/p/dynamic-theme/9nblggh1zbkw)
+Windows store app. 
 
-
-
-
+>  Dynamic background and/or lock screen picture with daily Bing or Windows Spotlight pictures, one Bing or Windows Spotlight picture or personal pictures.
 
 
