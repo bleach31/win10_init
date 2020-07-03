@@ -29,7 +29,9 @@ Automatic installation of well-used tools after clean install of Windows
    *  NoGuiHereIntegration
    *  NoShellHereIntegration
    *  SChannel
-   *  NoAutoCrlf
+   *  NoAutoCrlf  
+*  python3
+   *  version = 3.7.8
 
 
 
