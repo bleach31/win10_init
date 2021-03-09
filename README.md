@@ -20,6 +20,7 @@ Automatic installation of well-used tools after clean install of Windows
 * Arduino IDE
 * Chocolatey GUI
 * Zoom
+* [PowerToys](https://github.com/microsoft/PowerToys)
 *  Visual studio code
    *  NoContextMenuFiles
    *  NoContextMenuFolders
