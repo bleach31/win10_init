@@ -1,5 +1,6 @@
 # witout option
 choco install -y googlechrome adobereader direcx silverlight slack sourcetree mobaxterm 7zip.install microsoft-teams vcredist140 arduino chocolateygui zoom
+choco install -y powertoys
 
 # with option
 choco install python3 --version=3.7.8
