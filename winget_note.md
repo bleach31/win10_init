@@ -7,4 +7,5 @@ winget install -e --id Zoom.Zoom
 winget install -e --id SlackTechnologies.Slack
 winget install -e --id Git.Git
 winget install -e --id Adobe.Acrobat.Reader.64-bit
+winget install -e --id Mobatek.MobaXterm
 ```
